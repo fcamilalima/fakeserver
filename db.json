@@ -1,0 +1,19 @@
+{
+    "cpf": "01635810370",
+    "nomeCompleto": "Camila Lima",
+    "sexo": "F",
+    "dataNascimento": "30101966",
+    "telefone1": "997941763",
+    "telefone2": null,
+    "telefone3": null,
+    "enderecoComCEP": "Rua Carlos Albuquerque, 2020 - 60841666",
+    "crm1": "2562314",
+    "medico1": "Joaquim Silveira",
+    "crm2": null,
+    "medico2": null,
+    "email": "camila@bol.com.br",
+    "nomePaciente": "José Ricardo",
+    "dataNascimentoPaciente": "25051985",
+    "sexoPaciente": "M",
+    "patologiaPaciente": "Pancreatite"
+}
